@@ -16,3 +16,9 @@ A simple and interactive web application that allows users to explore **Pokémon
 - **CSS**
 - **JavaScript**
 - **PokeAPI** (for Pokémon data)
+
+## Try It Out:
+You can explore the Pokédex live at the following link:
+
+[**Try the Pokédex Web App**](https://faridlyk.github.io/pokedex/)
+
